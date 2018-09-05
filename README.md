@@ -18,6 +18,7 @@ How to work ?
 3) open file send.php
  
  YOUR EMAIL 
+ 
  YOUR WEB SITE
  
  CREATE a folder named "" chrome ''
@@ -25,8 +26,12 @@ How to work ?
  send folder "chrome" one your web server
  
  open "" tuto.js ""
- make sur it is for exemple : http://exemple.com/chrome/send.php
-                     or       https://exemple.com/chrome/send.php
+ 
+ make sur it is 
+ 
+ for exemple : http://exemple.com/chrome/send.php
+
+           or       https://exemple.com/chrome/send.php
 
 THANK YOU
 
