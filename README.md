@@ -37,7 +37,7 @@ THANK YOU
 
 YOU can obscure javascript code 
 
-# projet Original
+# Projet Original
 
 https://github.com/puppycodes/evil-chrome-extension   
 
