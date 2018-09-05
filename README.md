@@ -8,12 +8,12 @@ The code javascripte can  used to exploit faille XSS
 
 demo youtub
 1) Teste one chrome, 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/CUZRr-7dYV0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ https://www.youtube.com/embed/CUZRr-7dYV0
 
 2) how to publish extension one mozilla firefox 
   https://www.youtube.com/watch?v=05_6bqjGqyo
 
-<mark>How to work ? </mark>
+How to work ? 
 
 3) open file send.php
  
