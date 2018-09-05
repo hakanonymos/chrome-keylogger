@@ -31,10 +31,14 @@ How to work ?
  
  for exemple : http://exemple.com/chrome/send.php
 
-           or       https://exemple.com/chrome/send.php
+           or   https://exemple.com/chrome/send.php
 
 THANK YOU
 
 YOU can obscure javascript code 
+
+# projet Original
+
+https://github.com/puppycodes/evil-chrome-extension   
 
 
