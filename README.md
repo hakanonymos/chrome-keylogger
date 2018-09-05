@@ -13,7 +13,7 @@ demo youtub
 2) how to publish extension one mozilla firefox 
   https://www.youtube.com/watch?v=05_6bqjGqyo
 
-How to work ? 
+How it works ? 
 
 3) open file send.php
  
