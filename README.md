@@ -8,7 +8,7 @@ The code javascripte can  used to exploit faille XSS
 
 demo youtub
 1) Teste one chrome, 
- https://www.youtube.com/embed/CUZRr-7dYV0
+ the video was deleted by youtub
 
 2) how to publish extension one mozilla firefox 
   https://www.youtube.com/watch?v=05_6bqjGqyo
