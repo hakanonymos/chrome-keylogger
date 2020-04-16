@@ -6,6 +6,8 @@ it looks if we validated a field of connection or registration of a form.
 not need to type unlike other keyloggers that take  keys  .
 The code javascripte can  used to exploit faille XSS 
 
+NEW PROJECT 2020 https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
+
 demo youtub
 1) Teste one chrome, 
  the video was deleted by youtub
